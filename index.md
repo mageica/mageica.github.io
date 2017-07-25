@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-time-travel
+title: Welcome to mageica's homepage
+description: Feel free to bookmark this to keep an eye on my progress
 
 You can use the [editor on GitHub](https://github.com/mageica/mageica.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
