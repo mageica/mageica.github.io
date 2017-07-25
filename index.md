@@ -1,6 +1,6 @@
 
 # **Welcome to mageica's github**
-### You can bookmark this page to keep an eye on my progress
+#### You can :star: this page to keep an eye on my progress
 
 
 ### Markdown
